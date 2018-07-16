@@ -1,0 +1,10 @@
+{
+   "verifyPwdResponse":{
+      "msgHdr":{
+         "rslt":"OK"
+      },
+      "msgBdy":{
+         "status":"00"
+      }
+   }
+}

@@ -1,0 +1,12 @@
+{
+   "cbsEnqResponse":{
+      "msgHdr":{
+         "rslt":"OK"
+      },
+      "msgBdy":{
+         "statusDescription":"ORIG",
+         "sts":"0",
+         "clientRefId":"1234556"
+      }
+   }
+}

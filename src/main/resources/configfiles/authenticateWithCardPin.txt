@@ -1,0 +1,15 @@
+{
+   "validatePinResponse":{
+      "msgHdr":{
+         "rslt":"OK",
+         "error":{
+            "cd":"null"
+         }
+      },
+      "msgBdy":{
+         "sts":"00",
+         "refNbr":"181243",
+         "acntNb":"4111460041111234"
+      }
+   }
+}

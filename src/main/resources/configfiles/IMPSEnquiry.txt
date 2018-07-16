@@ -1,0 +1,1 @@
+{ "EnquireGenericTxnStatusResp":{ "msgHdr":{ "rslt":"OK" }, "msgBdy":{ "StsCd":"S", "StsDesc":"Your IMPS Transaction is Declined." } } }

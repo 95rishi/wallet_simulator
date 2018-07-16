@@ -1,0 +1,31 @@
+{
+  "serviceCharges": [
+    {
+      "amount": "3",
+      "receiver": {
+        "productId": null,
+        "partyId": "PT789"
+      },
+      "sender": {
+        "productId": "12",
+        "partyId": "PT123.124"
+      }
+    }
+  ],
+  "commissionTaxes": [],
+  "commissions": [],
+  "transferAmount": "100",
+  "serviceChargeTaxes": [
+  	{
+      "amount": "2",
+      "receiver": {
+        "productId": null,
+        "partyId": "PT789"
+      },
+      "sender": {
+        "productId": "12",
+        "partyId": "PT123.124"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "message": "User Password validated Successfully",
+  "ucicid": "211111"
+}

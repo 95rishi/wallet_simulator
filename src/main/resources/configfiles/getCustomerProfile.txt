@@ -1,0 +1,31 @@
+{
+   "getCustomerProfileRep":{
+      "msgHdr":{
+         "rslt":"OK"
+      },
+      "msgBdy":{
+         "getCustomerProfile":[
+            {
+               "ucic":"1000000179",
+               "custTitle":"MISS",
+               "custFirstName":"Frst Nm",
+               "custMiddleName":"Middle Nm",
+               "custLastName":"Lst Nm",
+               "dob":"2015-12-08",
+               "gender":"MALE",
+               "ntnlty":"IN"
+            },
+            {
+               "ucic":"1000000179",
+               "acctNo":"77154858",
+               "srcName":"BPMITest"
+            },
+            {
+               "ucic":"1000000179",
+               "acctNo":"4564986546",
+               "srcName":"BPMITest"
+            }
+         ]
+      }
+   }
+}

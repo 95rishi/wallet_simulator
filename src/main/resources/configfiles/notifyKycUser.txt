@@ -1,0 +1,10 @@
+{
+"UpdateEwalletIDRep":{
+"msgHdr":{
+"rslt":"OK"
+},
+"msgBdy":{
+"sts":"Update successful for UCIC 2045679"
+}
+}
+}

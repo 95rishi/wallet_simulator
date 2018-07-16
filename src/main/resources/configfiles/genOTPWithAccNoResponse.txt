@@ -1,0 +1,11 @@
+{  
+   "generatePwdResponse":{  
+      "msgHdr":{  
+         "rslt":"SUCCESS"
+      },
+      "msgBdy":{  
+         "status":"00",
+         "refNum":"123456"
+      }
+   }
+}

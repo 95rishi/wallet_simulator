@@ -1,0 +1,12 @@
+{
+   "InitiateGenericFundTransferResponse":{
+      "msgHdr":{
+         "rslt":"OK"
+      },
+      "msgBdy":{
+         "sts":"ACSC",
+         "txnId":"119383",
+         "chnlTxnId":"976650202"
+      }
+   }
+}

@@ -1,0 +1,26 @@
+{
+"appzillonBody": {
+"notificationDetail": {
+"appId": "com.idfc.wallet",
+"notificationMsg": "message",
+"deviceId": "356938035643809"
+}
+},
+"appzillonHeader": {
+"screenId": "serverScr",
+"requestKey": "null",
+"appId": "com.idfcbank.wallet",
+"requestID": "124",
+"interfaceId": "appzillonNotifyDevice",
+"status": "success",
+"sessionId": "null",
+"userId": "null",
+"longitude": "",
+"latitude": "",
+"deviceId": "APPZILLONSIMULATOR"
+},
+"appzillonErrors": [{
+"errorMessage": "null",
+"errorCode": "null"
+}]
+}

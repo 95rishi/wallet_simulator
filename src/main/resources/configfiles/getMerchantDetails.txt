@@ -1,0 +1,12 @@
+{
+ "serviceResponse" : {
+    "COMMAND" : {
+      "IMEI" : "8E2933F0-3D50-47B7-8F74-03A62C04D6E2",
+      "UNIQUEID" : "CYWB022X",
+      "MSISDN" : "39664990",
+      "PLATFORM" : "iOS/Android",
+      "LANGUAGE":"1",
+      "TXNSTATUS":"200"
+    }
+  }
+}

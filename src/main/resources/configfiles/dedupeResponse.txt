@@ -1,0 +1,66 @@
+{
+
+   "checkCustomerProfileRep": {
+
+      "msgHdr": {
+
+         "rslt": "OK"
+
+      },
+
+      "msgBdy": {
+
+         "sts": "YES",
+
+         "checkCustPrflPrflRes": [
+
+            {
+
+               "custId": "1000000054",
+
+               "frstNm": "Frst Nm",
+
+               "mdlNm": "Middle Nm",
+
+               "lstNm": "Lst Nm",
+
+               "matchStatus": "YES"
+
+            },
+
+            {
+
+               "custId": "45646798",
+
+               "frstNm": "FirstName",
+
+               "mdlNm": "MiddleName",
+
+               "lstNm": "LastName",
+
+               "matchStatus": "YES"
+
+            },
+
+            {
+
+               "custId": "987654321",
+
+               "frstNm": "Frst Nm",
+
+               "mdlNm": "Middle Nm",
+
+               "lstNm": "Lst Nm",
+
+               "matchStatus": "YES"
+
+            }
+
+         ]
+
+      }
+
+   }
+
+}
+
